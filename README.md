@@ -3,6 +3,7 @@ Code to replicate results in "Optimal Testing in the Experiment-rich Regime" pap
 
 ## Requirements
 
+- Python 3
 - pandas
 - dpfly
 - matplotlib
